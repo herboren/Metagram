@@ -67,8 +67,6 @@ Common RAW files have been added however, the final result may actually be diffe
 	*Samsung RAW Image*
 - **.j6i**:
 	*Ricoh Camera Image File*
-- **.mrw**:
-	*Minolta Raw Image*
 - **.mfw**:
 	*Mamiya Camera Raw File*
 - **.x3f**:
