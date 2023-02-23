@@ -7,7 +7,9 @@ Only supported files will have their meta data extracted. Unsupported files will
 Common RAW files have been added however, the final result may actually be different, some formats may not be supported by the API:
 
 .cr2: Canon Raw 2 Image
+
 .rw2: Panasonic RAW Image
+
 .raf: Fujifilm RAW Image
 .erf: Epson RAW File
 .nrw: Nikon Raw Image
