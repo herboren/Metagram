@@ -5,83 +5,83 @@ Only supported files will have their meta data extracted. Unsupported files will
 ![image](https://user-images.githubusercontent.com/987794/221002527-c013768a-e689-4261-895d-c323e14a941a.png)
 
 Common RAW files have been added however, the final result may actually be different, some formats may not be supported by the API:
-^- **.cr2**:
+- **.cr2**:
 	*Canon Raw 2 Image*
-^- **.rw2**:
+- **.rw2**:
 	*Panasonic RAW Image*
-^- **.raf**:
+- **.raf**:
 	*Fujifilm RAW Image*
-^- **.erf**:
+- **.erf**:
 	*Epson RAW File*
-^- **.nrw**:
+- **.nrw**:
 	*Nikon Raw Image*
-^- **.nef**:
+- **.nef**:
 	*Nikon Electronic Format RAW Image*
-^- **.arw**:
+- **.arw**:
 	*Sony Alpha Raw Digital Camera Image*
-^- **.rwz**:
+- **.rwz**:
 	*Rawzor Compressed Image*
-^- **.dng**:
+- **.dng**:
 	*Digital Negative Image*
-^- **.eip**:
+- **.eip**:
 	*Enhanced Image Package File*
-^- **.bay**:
+- **.bay**:
 	*Casio RAW Image*
-^- **.dcr**:
+- **.dcr**:
 	*Kodak Digital Camera RAW Image*
-^- **.gpr**:
+- **.gpr**:
 	*GoPro RAW Image*
-^- **.raw**:
+- **.raw**:
 	*Raw Image Data*
-^- **.crw**:
+- **.crw**:
 	*Canon Raw CIFF Image File*
-^- **.3fr**:
+- **.3fr**:
 	*Hasselblad 3F RAW Image*
-^- **.sr2**:
+- **.sr2**:
 	*Sony RAW Image*
-^- **.k25**:
+- **.k25**:
 	*Kodak K25 Image*
-^- **.kc2**:
+- **.kc2**:
 	*Kodak DCS200 Camera Raw Image*
-^- **.mef**:
+- **.mef**:
 	*Mamiya RAW Image*
-^- **.dng**:
+- **.dng**:
 	*Apple ProRAW Image*
-^- **.cs1**:
+- **.cs1**:
 	*CaptureShop 1-shot Raw Image*
-^- **.orf**:
+- **.orf**:
 	*Olympus RAW File*
-^- **.mos**:
+- **.mos**:
 	*Leaf Camera RAW Image*
-^- **.ari**:
+- **.ari**:
 	*ARRIRAW Image*
-^- **.cr3**:
+- **.cr3**:
 	*Canon Raw 3 Image File*
-^- **.kdc**:
+- **.kdc**:
 	*Kodak Photo-Enhancer File*
-^- **.fff**:
+- **.fff**:
 	*Hasselblad RAW Image*
-^- **.srf**:
+- **.srf**:
 	*Sony RAW Image*
-^- **.srw**:
+- **.srw**:
 	*Samsung RAW Image*
-^- **.j6i**:
+- **.j6i**:
 	*Ricoh Camera Image File*
-^- **.mrw**:
+- **.mrw**:
 	*Minolta Raw Image*
-^- **.mfw**:
+- **.mfw**:
 	*Mamiya Camera Raw File*
-^- **.x3f**:
+- **.x3f**:
 	*SIGMA X3F Camera RAW File*
-^- **.rwl**:
+- **.rwl**:
 	*Leica RAW Image*
-^- **.pef**:
+- **.pef**:
 	*Pentax Electronic File*
-^- **.iiq**:
+- **.iiq**:
 	*Phase One RAW Image*
-^- **.cxi**:
+- **.cxi**:
 	*FMAT RAW Image*
-^- **.nks**:
+- **.nks**:
 	*Nikon Capture NX-D Sidecar File*
-^- **.mdc**:
+- **.mdc**:
 	*Minolta Camera Raw Image*
