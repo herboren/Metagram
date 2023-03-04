@@ -1,10 +1,7 @@
 # Metagram
 Extracts a general subset of metadata from RAW only files, and generates a histogram (RGB, Gr) per image. Useful for Astrophotography beginners.
 
-Only supported files will have their meta data extracted. Unsupported files will result in an error. 
-![image](https://user-images.githubusercontent.com/987794/221002527-c013768a-e689-4261-895d-c323e14a941a.png)
-
-Common RAW files have been added however, the final result may actually be different, some formats may not be supported by the API:
+Only supported files will have their meta data extracted. Unsupported files will result in an error. Common RAW files have been added however, the final result may actually be different, some formats may not be supported by the API:
 - **.cr2**:
 	*Canon Raw 2 Image*
 - **.rw2**:
