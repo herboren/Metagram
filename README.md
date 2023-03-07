@@ -1,5 +1,5 @@
 # Metagram
-Extracts a general subset of metadata from RAW only files, and generates a histogram (RGB, Gr) per image. Useful for Astrophotography beginners.
+Extracts a general subset of metadata from RAW only files, and generates an RGB histogram per image. Useful for Astrophotography beginners.
 
 ![Metagram_ZAI6qvppzH](https://user-images.githubusercontent.com/987794/223345203-5b92ad39-1603-4a34-ad5f-046c4ffb1d42.png)
 
