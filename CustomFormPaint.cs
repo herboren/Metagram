@@ -49,8 +49,6 @@ namespace Metagram
 
             // Not finished
             int yOffset = 4;
-            float percentage = 0.25f;            
-            string textPercentage = $"{percentage * 100}";
             Dictionary<int, float> keys = new Dictionary<int, float>()
             {
                 { 64,0.25f },
