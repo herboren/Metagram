@@ -3,37 +3,31 @@ Extracts a general subset of metadata from RAW only files, and generates an RGB 
 
 A series of frames should be shot from chosen focal lengths, at certain ISO's, at certain F/Stops, and exposure times to identify the best quality image for the job to be stacked later. Below are just some examples to follow, you may use your own settings. 
 
-- ISO 800
+- **ISO 800**
   - FStop: 4.0 
     - x1 of each Exposures: 10, 15, 20, 25
-- FStop: 5.0 
-  - x1 of each Exposures: 10, 15, 20, 25
-- FStop: 5.6
-  - x1 of each Exposures: 10, 15, 20, 25
-- FStop: 6.3
-  - x1 of each Exposures: 10, 15, 20, 25
-- FStop: 7.1
-  - x1 of each Exposures: 10, 15, 20, 25
-...
+  - FStop: 5.0 
+    - x1 of each Exposures: 10, 15, 20, 25
+  - FStop: 5.6
+    - x1 of each Exposures: 10, 15, 20, 25
+  - FStop: 6.3
+    - x1 of each Exposures: 10, 15, 20, 25
+  - FStop: 7.1
+    - x1 of each Exposures: 10, 15, 20, 25
+  - ...
 
-**ISO 1600**
-FStop: 4.0 
-x1 of each Exposures: 10, 15, 20, 25
-FStop: 5.0 
-x1 of each Exposures: 10, 15, 20, 25
-FStop: 5.6
-x1 of each Exposures: 10, 15, 20, 25
-FStop: 6.3
-x1 of each Exposures: 10, 15, 20, 25
-FStop: 7.1
-x1 of each Exposures: 10, 15, 20, 25
-...
-
-But, in the end, when the directory is full, transfer your files to a folder **not** located on the camera device.
-![image](https://user-images.githubusercontent.com/987794/235718454-7e43aeb8-31d6-4341-90da-6e70203e3a40.png)
-
-When the files have been transfered to a folder, this foldr will be navigated to by the program
-![image](https://user-images.githubusercontent.com/987794/235718011-7a8d454b-6954-4310-8bc1-1de21dc61fb7.png)
+- **ISO 1600**
+  - FStop: 4.0 
+    - x1 of each Exposures: 10, 15, 20, 25
+  - FStop: 5.0 
+    - x1 of each Exposures: 10, 15, 20, 25
+  - FStop: 5.6
+    - x1 of each Exposures: 10, 15, 20, 25
+  - FStop: 6.3
+    - x1 of each Exposures: 10, 15, 20, 25
+  - FStop: 7.1
+    - x1 of each Exposures: 10, 15, 20, 25
+  - ...
 
 Upon selecting a file in the list, the histogram will be generated accordingly
 ![image](https://user-images.githubusercontent.com/987794/235722305-8d5751dc-1c4d-40f7-9f0a-d2de79791c0f.png)
