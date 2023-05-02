@@ -5,15 +5,25 @@ A series of frames should be shot from chosen focal lengths, at certain ISO's, a
 
 **ISO 800**
 FStop: 4.0 
+
 x1 of each Exposures: 10, 15, 20, 25
+
 FStop: 5.0 
+
 x1 of each Exposures: 10, 15, 20, 25
+
 FStop: 5.6
+
 x1 of each Exposures: 10, 15, 20, 25
+
 FStop: 6.3
+
 x1 of each Exposures: 10, 15, 20, 25
+
 FStop: 7.1
+
 x1 of each Exposures: 10, 15, 20, 25
+
 ...
 
 **ISO 1600**
