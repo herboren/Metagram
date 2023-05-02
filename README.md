@@ -5,7 +5,7 @@ A series of frames should be shot from chosen focal lengths, at certain ISO's, a
 
 Use a context menu to mark the appropriate files, delete, open file location, or even copy metadata to a formatted string for use in forum threads or personal use. This has only been tested on Canon CR2 formats and few others, however, unsupproted formats are beyond my control and should be addressed with https://github.com/drewnoakes/metadata-extractor
 
-![image](https://user-images.githubusercontent.com/987794/223784362-65c9cf61-835e-4133-8f3e-45209572a47d.png)
+![image](https://user-images.githubusercontent.com/987794/235715436-444926a6-257b-4c78-8fe4-093163b1a2ed.png)
 
 Only supported files will have their meta data extracted. Unsupported files will result in an error. Common RAW files have been added however, the final result may actually be different, some formats may not be supported by the API:
 - **.cr2**:
