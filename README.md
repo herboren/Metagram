@@ -3,32 +3,32 @@ Extracts a general subset of metadata from RAW only files, and generates an RGB 
 
 A series of frames should be shot from chosen focal lengths, at certain ISO's, at certain F/Stops, and exposure times to identify the best quality image for the job to be stacked later. Below are just some examples to follow, you may use your own settings. 
 
-.- ISO 800
-..- FStop
-...- 4.0
-....- 1x 10 sec
-....- 1x 15 sec
-....- 1x 20 sec
-....- 1x 25 sec
-...- 5.0
-....- 1x 10 sec
-....- 1x 15 sec
-....- 1x 20 sec
-....- 1x 25 sec
-...- 5.6
-....- 1x 10 sec
-....- 1x 15 sec
-....- 1x 20 sec
-....- 1x 25 sec
-...- 6.3
-....- 1x 10 sec
-....- 1x 15 sec
-....- 1x 20 sec
-....- 1x 25 sec
+- ISO 800
+ - FStop
+  - 4.0
+   - 1x 10 sec
+   - 1x 15 sec
+   - 1x 20 sec
+   - 1x 25 sec
+  - 5.0
+   - 1x 10 sec
+   - 1x 15 sec
+   - 1x 20 sec
+   - 1x 25 sec
+  - 5.6
+   - 1x 10 sec
+   - 1x 15 sec
+   - 1x 20 sec
+   - 1x 25 sec
+  - 6.3
+   - 1x 10 sec
+   - 1x 15 sec
+   - 1x 20 sec
+   - 1x 25 sec
 
 - ISO 1600
  - FStop
-   - 4.0
+  - 4.0
    - 1x 10 sec
    - 1x 15 sec
    - 1x 20 sec
