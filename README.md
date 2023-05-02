@@ -6,10 +6,10 @@ A series of frames should be shot from chosen focal lengths, at certain ISO's, a
 - ISO 800
  - FStop
   - 4.0
-  - 1x 10 sec
-  - 1x 15 sec
-  - 1x 20 sec
-  - 1x 25 sec
+   - 1x 10 sec
+   - 1x 15 sec
+   - 1x 20 sec
+   - 1x 25 sec
   - 5.0
    - 1x 10 sec
    - 1x 15 sec
